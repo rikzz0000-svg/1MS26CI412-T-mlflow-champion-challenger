@@ -1,5 +1,6 @@
 # Mini Project: Champion–Challenger Model Comparison with Hugging Face and MLflow
-**Course:** Skill Lab (MLOps with MLflow) · Extension of Labs 4, 5, 8, 9, 10, 11 and 13  
+**Course:** Skill Lab (MLOps with MLflow) · Extension of Labs 4, 5, 8, 9, 10, 11 and 13                                      
+**Student Name:** Rakshith Reddy V                                                                                          
 **Student USN:** 1MS26CI412-T  
 **Repository Name:** `1MS26CI412-T-mlflow-champion-challenger`  
 **GitHub URL:** `https://github.com/rikzz0000-svg/1MS26CI412-T-mlflow-champion-challenger.git`
