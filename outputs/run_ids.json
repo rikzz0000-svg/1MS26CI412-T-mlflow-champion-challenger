@@ -1,0 +1,11 @@
+{
+  "experiment_name": "hf-sentiment-champion-challenger",
+  "champion_run_id": "027a7a9598924c9dae0c5da9e3f65293",
+  "challenger_run_id": "e8faaca93881469fb30586ceb693583c",
+  "summary_run_id": "87faddc2e5c5468fa387be56641a0d33",
+  "winning_run_id": "e8faaca93881469fb30586ceb693583c",
+  "losing_run_id": "027a7a9598924c9dae0c5da9e3f65293",
+  "winner": "Challenger",
+  "model_a_id": "distilbert-base-uncased-finetuned-sst-2-english",
+  "model_b_id": "textattack/bert-base-uncased-SST-2"
+}

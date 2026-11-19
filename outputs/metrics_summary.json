@@ -1,0 +1,26 @@
+{
+  "dataset": "SST-2 Sentiment Subset",
+  "eval_samples": 50,
+  "champion_model_a": {
+    "model_id": "distilbert-base-uncased-finetuned-sst-2-english",
+    "metrics": {
+      "accuracy": 0.98,
+      "precision_macro": 0.9808,
+      "recall_macro": 0.98,
+      "f1_macro": 0.98,
+      "avg_latency_ms": 45.75,
+      "total_inference_s": 2.288
+    }
+  },
+  "challenger_model_b": {
+    "model_id": "textattack/bert-base-uncased-SST-2",
+    "metrics": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "avg_latency_ms": 81.06,
+      "total_inference_s": 4.053
+    }
+  }
+}

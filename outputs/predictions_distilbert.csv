@@ -1,0 +1,51 @@
+id,text,label,predicted_label,confidence_score,correct
+1,This movie was an absolute masterpiece with stellar performances and brilliant directing.,POSITIVE,POSITIVE,0.9999,True
+2,A dreadful waste of time and money that fails on almost every level.,NEGATIVE,NEGATIVE,0.9998,True
+3,The cinematography was breathtaking and the emotional depth kept me engaged throughout.,POSITIVE,POSITIVE,0.9999,True
+4,"Terrible script, cardboard characters, and completely uninspired direction.",NEGATIVE,NEGATIVE,0.9998,True
+5,One of the most heartwarming and beautifully crafted films of the decade.,POSITIVE,POSITIVE,0.9999,True
+6,An utter disaster filled with plot holes and cringe-worthy dialogue.,NEGATIVE,NEGATIVE,0.9998,True
+7,The cast delivers phenomenal acting that elevates an already compelling story.,POSITIVE,POSITIVE,0.9999,True
+8,"Boring, predictable, and painful to sit through until the end.",NEGATIVE,NEGATIVE,0.9996,True
+9,A triumphant achievement in modern storytelling that resonates deeply.,POSITIVE,POSITIVE,0.9999,True
+10,The pacing was atrocious and the ending felt entirely unearned.,NEGATIVE,NEGATIVE,0.9982,True
+11,"Rich with nuance, unforgettable visuals, and authentic emotional resonance.",POSITIVE,POSITIVE,0.9999,True
+12,A poorly conceived mess that squanders the talents of its lead actors.,NEGATIVE,NEGATIVE,0.9998,True
+13,Wonderfully inventive and charming from the opening frame to the closing credits.,POSITIVE,POSITIVE,0.9999,True
+14,"A soulless cash grab lacking any originality, passion, or creative spark.",NEGATIVE,NEGATIVE,0.9998,True
+15,"Captivating, thought-provoking, and brilliantly executed across all fronts.",POSITIVE,POSITIVE,0.9999,True
+16,The acting is wooden and the special effects look amateurish at best.,NEGATIVE,NEGATIVE,0.9998,True
+17,An exhilarating cinematic ride that keeps you on the edge of your seat.,POSITIVE,POSITIVE,0.9999,True
+18,"Dull and disjointed, with dialogue so clunky it borders on parody.",NEGATIVE,NEGATIVE,0.9998,True
+19,Superb screenplay paired with masterful sound design and editing.,POSITIVE,POSITIVE,0.9999,True
+20,I could not wait for this agonizingly dull movie to finally finish.,NEGATIVE,NEGATIVE,0.9996,True
+21,A touching exploration of human relationships that leaves a lasting impression.,POSITIVE,POSITIVE,0.9999,True
+22,Completely derivative and fails to deliver any genuine thrills or surprises.,NEGATIVE,NEGATIVE,0.9998,True
+23,"Delightfully witty, smartly written, and immensely entertaining throughout.",POSITIVE,POSITIVE,0.9999,True
+24,An incoherent narrative burdened by heavy-handed and awkward exposition.,NEGATIVE,NEGATIVE,0.9997,True
+25,The emotional payoff in the final act is both profound and deeply moving.,POSITIVE,POSITIVE,0.9998,True
+26,Pretentious nonsense disguised as an insightful psychological study.,NEGATIVE,POSITIVE,0.9674,False
+27,"Inspiring story brought to life with passion, integrity, and warmth.",POSITIVE,POSITIVE,0.9999,True
+28,A shallow and frustrating experience that offers nothing of value.,NEGATIVE,NEGATIVE,0.9998,True
+29,Visually stunning and anchored by an unforgettable lead performance.,POSITIVE,POSITIVE,0.9999,True
+30,Horrible pacing makes a ninety minute runtime feel like four hours.,NEGATIVE,NEGATIVE,0.9997,True
+31,"Sharp, humorous, and full of genuine heart that makes it rewatchable.",POSITIVE,POSITIVE,0.9998,True
+32,The dialogue is painfully artificial and completely lacks realism.,NEGATIVE,NEGATIVE,0.9998,True
+33,An exceptional work of art that challenges and delights in equal measure.,POSITIVE,POSITIVE,0.9999,True
+34,A colossal disappointment that fails to live up to any of the expectations.,NEGATIVE,NEGATIVE,0.9998,True
+35,"The soundtrack alone is worth experiencing, complementing each poignant scene.",POSITIVE,POSITIVE,0.9999,True
+36,A hollow exercise in style over substance with no emotional core.,NEGATIVE,NEGATIVE,0.9998,True
+37,Genuinely hilarious and heartwarming with a brilliant comic ensemble.,POSITIVE,POSITIVE,0.9999,True
+38,"Lacks tension, coherence, and believable character motivations.",NEGATIVE,NEGATIVE,0.9998,True
+39,A refreshing breath of fresh air that breathes new life into the genre.,POSITIVE,POSITIVE,0.9999,True
+40,"Feeble jokes, awkward pauses, and a dreadful lack of comedic timing.",NEGATIVE,NEGATIVE,0.9998,True
+41,Poignant and powerfully delivered with incredible sensitivity.,POSITIVE,POSITIVE,0.9999,True
+42,The plot collapses under the weight of endless contrived coincidences.,NEGATIVE,NEGATIVE,0.9998,True
+43,Remarkably nuanced storytelling with gorgeous art direction.,POSITIVE,POSITIVE,0.9999,True
+44,An uninspired chore to watch that never finds its footing.,NEGATIVE,NEGATIVE,0.9998,True
+45,Exquisite craftsmanship and powerful themes handled with sublime grace.,POSITIVE,POSITIVE,0.9999,True
+46,Cheap jump scares and lazy tropes substitute for genuine suspense.,NEGATIVE,NEGATIVE,0.9997,True
+47,Stands as a testament to creative vision and daring cinematic storytelling.,POSITIVE,POSITIVE,0.9999,True
+48,A confused jumble of cliches that falls completely flat.,NEGATIVE,NEGATIVE,0.9998,True
+49,"Enchanting and radiant, leaving the audience with an uplifting feeling.",POSITIVE,POSITIVE,0.9999,True
+50,A thoroughly tedious experience that fails to evoke any genuine reaction.,NEGATIVE,NEGATIVE,0.9998,True

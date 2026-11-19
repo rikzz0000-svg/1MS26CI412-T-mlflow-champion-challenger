@@ -1,0 +1,2 @@
+id,text,ground_truth,model_a_pred,model_a_score,model_b_pred,model_b_score,commentary
+26,Pretentious nonsense disguised as an insightful psychological study.,NEGATIVE,POSITIVE,0.9674,NEGATIVE,0.9743,Models disagreed
