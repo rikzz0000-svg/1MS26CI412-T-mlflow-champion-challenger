@@ -1,0 +1,9 @@
+id,text,expected_sentiment,predicted_label,confidence_score,match
+1,The customer support team resolved my complex billing issue in under ten minutes with amazing courtesy.,POSITIVE,POSITIVE,0.9996,True
+2,The device overheated within an hour of light use and completely stopped functioning.,NEGATIVE,NEGATIVE,0.9997,True
+3,An outstanding dining experience with exquisitely crafted flavors and impeccable attentive service.,POSITIVE,POSITIVE,0.9999,True
+4,"The hotel room was filthy, smelled of damp mildew, and the air conditioner made loud screeching noises.",NEGATIVE,NEGATIVE,0.9983,True
+5,This software update brought noticeable performance speedups and an intuitive clean interface.,POSITIVE,POSITIVE,0.9965,True
+6,"The package arrived severely damaged, missing critical parts, and customer service refused to help.",NEGATIVE,NEGATIVE,0.9998,True
+7,A truly magical evening at the symphony orchestra that exceeded all our highest expectations.,POSITIVE,POSITIVE,0.9999,True
+8,"The flight was delayed four hours without any explanation, snacks, or basic courtesy from the airline.",NEGATIVE,NEGATIVE,0.9995,True
