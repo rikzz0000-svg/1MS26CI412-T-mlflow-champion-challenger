@@ -1,0 +1,51 @@
+id,text,label
+1,"This movie was an absolute masterpiece with stellar performances and brilliant directing.",POSITIVE
+2,"A dreadful waste of time and money that fails on almost every level.",NEGATIVE
+3,"The cinematography was breathtaking and the emotional depth kept me engaged throughout.",POSITIVE
+4,"Terrible script, cardboard characters, and completely uninspired direction.",NEGATIVE
+5,"One of the most heartwarming and beautifully crafted films of the decade.",POSITIVE
+6,"An utter disaster filled with plot holes and cringe-worthy dialogue.",NEGATIVE
+7,"The cast delivers phenomenal acting that elevates an already compelling story.",POSITIVE
+8,"Boring, predictable, and painful to sit through until the end.",NEGATIVE
+9,"A triumphant achievement in modern storytelling that resonates deeply.",POSITIVE
+10,"The pacing was atrocious and the ending felt entirely unearned.",NEGATIVE
+11,"Rich with nuance, unforgettable visuals, and authentic emotional resonance.",POSITIVE
+12,"A poorly conceived mess that squanders the talents of its lead actors.",NEGATIVE
+13,"Wonderfully inventive and charming from the opening frame to the closing credits.",POSITIVE
+14,"A soulless cash grab lacking any originality, passion, or creative spark.",NEGATIVE
+15,"Captivating, thought-provoking, and brilliantly executed across all fronts.",POSITIVE
+16,"The acting is wooden and the special effects look amateurish at best.",NEGATIVE
+17,"An exhilarating cinematic ride that keeps you on the edge of your seat.",POSITIVE
+18,"Dull and disjointed, with dialogue so clunky it borders on parody.",NEGATIVE
+19,"Superb screenplay paired with masterful sound design and editing.",POSITIVE
+20,"I could not wait for this agonizingly dull movie to finally finish.",NEGATIVE
+21,"A touching exploration of human relationships that leaves a lasting impression.",POSITIVE
+22,"Completely derivative and fails to deliver any genuine thrills or surprises.",NEGATIVE
+23,"Delightfully witty, smartly written, and immensely entertaining throughout.",POSITIVE
+24,"An incoherent narrative burdened by heavy-handed and awkward exposition.",NEGATIVE
+25,"The emotional payoff in the final act is both profound and deeply moving.",POSITIVE
+26,"Pretentious nonsense disguised as an insightful psychological study.",NEGATIVE
+27,"Inspiring story brought to life with passion, integrity, and warmth.",POSITIVE
+28,"A shallow and frustrating experience that offers nothing of value.",NEGATIVE
+29,"Visually stunning and anchored by an unforgettable lead performance.",POSITIVE
+30,"Horrible pacing makes a ninety minute runtime feel like four hours.",NEGATIVE
+31,"Sharp, humorous, and full of genuine heart that makes it rewatchable.",POSITIVE
+32,"The dialogue is painfully artificial and completely lacks realism.",NEGATIVE
+33,"An exceptional work of art that challenges and delights in equal measure.",POSITIVE
+34,"A colossal disappointment that fails to live up to any of the expectations.",NEGATIVE
+35,"The soundtrack alone is worth experiencing, complementing each poignant scene.",POSITIVE
+36,"A hollow exercise in style over substance with no emotional core.",NEGATIVE
+37,"Genuinely hilarious and heartwarming with a brilliant comic ensemble.",POSITIVE
+38,"Lacks tension, coherence, and believable character motivations.",NEGATIVE
+39,"A refreshing breath of fresh air that breathes new life into the genre.",POSITIVE
+40,"Feeble jokes, awkward pauses, and a dreadful lack of comedic timing.",NEGATIVE
+41,"Poignant and powerfully delivered with incredible sensitivity.",POSITIVE
+42,"The plot collapses under the weight of endless contrived coincidences.",NEGATIVE
+43,"Remarkably nuanced storytelling with gorgeous art direction.",POSITIVE
+44,"An uninspired chore to watch that never finds its footing.",NEGATIVE
+45,"Exquisite craftsmanship and powerful themes handled with sublime grace.",POSITIVE
+46,"Cheap jump scares and lazy tropes substitute for genuine suspense.",NEGATIVE
+47,"Stands as a testament to creative vision and daring cinematic storytelling.",POSITIVE
+48,"A confused jumble of cliches that falls completely flat.",NEGATIVE
+49,"Enchanting and radiant, leaving the audience with an uplifting feeling.",POSITIVE
+50,"A thoroughly tedious experience that fails to evoke any genuine reaction.",NEGATIVE
